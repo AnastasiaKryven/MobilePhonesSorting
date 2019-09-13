@@ -1,0 +1,4 @@
+.contentIteam:hover {
+        background-color: yellow;
+        transition: top 1s ease-out 0.5s;
+}
